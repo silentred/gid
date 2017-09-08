@@ -1,4 +1,4 @@
-// +build go1.6,go1.7,!go1.8
+// +build go1.5,!go1.8
 
 package gid
 
@@ -20,7 +20,6 @@ type g struct {
 	syscallpc    uintptr
 	stkbar       reflect.SliceHeader
 	stkbarPos    uintptr
-	stktopsp     uintptr
 	param        unsafe.Pointer
 	atomicstatus uint32
 	stackLock    uint32
