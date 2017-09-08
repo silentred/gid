@@ -1,4 +1,4 @@
-// +build go1.5,!go1.8
+// +build go1.5,!go1.6
 
 package gid
 
