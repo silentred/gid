@@ -18,6 +18,8 @@ id := gid.Get()
 
 ## Support
 
+- go 1.5
+- go 1.6
 - go 1.7
 - go 1.8
 - go 1.9
