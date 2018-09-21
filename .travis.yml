@@ -1,7 +1,7 @@
 language: go
 
 env:
-  - CODECOV_TOKEN="f0e5aecb-ec50-4e36-acbf-2ccf154527db"
+  - CODECOV_TOKEN=f0e5aecb-ec50-4e36-acbf-2ccf154527db
 
 go:
   - 1.5.x
@@ -13,4 +13,4 @@ go:
   - 1.11.x
 
 after_success:
-  - bash <(curl -s https://codecov.io/bash)
+  - bash <(curl -s https://codecov.io/bash) -t f0e5aecb-ec50-4e36-acbf-2ccf154527db
