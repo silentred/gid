@@ -11,6 +11,7 @@ go:
   - 1.9.x
   - 1.10.x
   - 1.11.x
+  - 1.12.x
 
 after_success:
   - bash <(curl -s https://codecov.io/bash) -t f0e5aecb-ec50-4e36-acbf-2ccf154527db
