@@ -1,5 +1,8 @@
 language: go
 
+env:
+  - CODECOV_TOKEN=f0e5aecb-ec50-4e36-acbf-2ccf154527db
+
 go:
   - 1.5.x
   - 1.6.x
