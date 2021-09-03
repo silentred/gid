@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
 ![](https://img.shields.io/github/tag/silentred/gid.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/silentred/gid)](https://goreportcard.com/report/github.com/silentred/gid)
-[![Build Status](https://travis-ci.org/silentred/gid.svg?branch=master)](https://app.travis-ci.com/github/silentred/gid)
+[![Build Status](https://app.travis-ci.com/silentred/gid.svg?branch=master)](https://app.travis-ci.com/github/silentred/gid)
 
 ## Feature
 
