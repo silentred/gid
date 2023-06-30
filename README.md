@@ -33,6 +33,3 @@ id := gid.Get()
 - go 1.16
 - go 1.17
 
-
-- [x] Disk-Agent exposes metric service
-- [ ] SPDK volume replica
