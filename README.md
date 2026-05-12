@@ -17,28 +17,10 @@
 id := gid.Get()
 ```
 
-## Support
+## Support Go Versions
 
-- go 1.5
-- go 1.6
-- go 1.7
-- go 1.8
-- go 1.9
-- go 1.10
-- go 1.11
-- go 1.12
-- go 1.13
-- go 1.14
-- go 1.15
-- go 1.16
-- go 1.17
-- go 1.18
-- go 1.19
-- go 1.20
-- go 1.21
-- go 1.22
-- go 1.23
-- go 1.24
-- go 1.25
-- go 1.26
+From Go 1.5 to Go 1.26
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=silentred/gid&type=date&legend=top-left)](https://www.star-history.com/?repos=silentred%2Fgid&type=date&legend=top-left)
